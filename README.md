@@ -1,14 +1,14 @@
 # pong
 
-This is the super simple python PONG game,no worries about dependencies, you just need to python installed in your machine, that's it.
+This is a super simple python PONG game. No need to worry about dependencies, just need to have Python installed in your machine and that's it.
 
  
 
 
 ### Clone or Download
 
-you can directly download zip file or you can clone this repo.
-for clone the repo, make sure you installed gitbash on your system and then follow below commands
+You can directly download the zip file or you can clone this repo.
+To clone the repo, make sure you installed gitbash on your system and then follow below command
 
 ```sh
 $ git clone https://github.com/keivalya/pong.git
@@ -25,7 +25,7 @@ $ python pong.py
 ```
 
 
-Now you can see the dialogbox shown in below,then enter the players name and click to start button.
+Now you can see a dialogbox similar to one shown below, then enter the players' name and then click the start button.
 
 ![](screenshots/name.PNG)
 
