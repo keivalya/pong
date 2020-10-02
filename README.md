@@ -36,7 +36,7 @@ Congratulations, your game is started and looks like below image.
 ### Control commands
 
  - Player1 : W/S 
- - Player2 : Arrow up/Arrow downn
+ - Player2 : Arrow up/Arrow down
  
  
  
