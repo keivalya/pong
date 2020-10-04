@@ -2,7 +2,7 @@
 
 This is a super simple python PONG game. No need to worry about dependencies, just need to have Python installed in your machine and that's it.
 
- 
+PS: The person who owns this repo is mere face of it, it's you who is making a difference! Keep contributing :)
 
 
 ### Clone or Download
