@@ -25,13 +25,15 @@ $ python pong.py
 ```
 
 
-Now you can see a dialogbox similar to one shown below, then enter the players' name and then click the start button.
+Now you can see a dialogbox similar to one shown below, then enter the players' name and the colour for indivisual player then click the start button.
 
-![](screenshots/name.PNG)
+![](screenshots/name.jpg)
+---
+![](screenshots/color.jpg)
 ---
 Congratulations, your game is started and looks like below image.
 
-![](screenshots/pong.png)
+![](screenshots/pong.jpg)
 ---
 This is how it works!!
 ![](screenshots\pong.gif)
