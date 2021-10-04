@@ -37,7 +37,7 @@ Congratulations, your game is started and looks like below image.
 ---
 This is how it works!!
 ![](screenshots\pong.gif)
-<img src="screenshots\pong.gif?raw=true" width="800px" height="600px">
+
 ### Control commands
 
  - Player1 : W/S 
