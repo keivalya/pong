@@ -34,9 +34,11 @@ Now you can see a dialogbox similar to one shown below, then enter the players' 
 Congratulations, your game is started and looks like below image.
 
 ![](screenshots/pong1.jpg)
+
+![](screenshots\pong1.gif)
+<img src="screenshots\pong1.gif?raw=true" width="800px" height="600px">
 ---
 This is how it works!!
-![](screenshots\pong.gif)
 
 ### Control commands
 
