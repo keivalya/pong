@@ -29,11 +29,11 @@ Now you can see a dialogbox similar to one shown below, then enter the players' 
 
 ![](screenshots/name.jpg)
 ---
-![](screenshots/color.jpg)
+![](screenshots/colors.jpg)
 ---
 Congratulations, your game is started and looks like below image.
 
-![](screenshots/pong.jpg)
+![](screenshots/pong1.jpg)
 ---
 This is how it works!!
 ![](screenshots\pong.gif)
